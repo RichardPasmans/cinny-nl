@@ -1,9 +1,9 @@
 {
-  "name": "Cinny",
-  "short_name": "Cinny",
-  "description": "Yet another matrix client",
+  "name": "DOE'22 informatiesysteem",
+  "short_name": "DOE'22",
+  "description": "DOE'22 informatiesysteem",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "nl-NL",
   "display": "standalone",
   "orientation": "portrait",
   "start_url": "./",
