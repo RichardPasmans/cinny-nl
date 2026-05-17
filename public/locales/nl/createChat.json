@@ -1,0 +1,14 @@
+{
+  "userId": "Gebruikers-ID",
+  "userIdPlaceholder": "@gebruikersnaam:server",
+  "validUserIdRequired": "Voer een geldig gebruikers-ID in.",
+  "options": "Opties",
+  "endToEndEncryption": "Eind-tot-eindversleuteling",
+  "encryptionIrreversible": "Zodra deze functie is ingeschakeld, kan deze na het aanmaken van de kamer niet meer worden uitgeschakeld.",
+  "serverRateLimitedMinutes": "De server heeft je verzoek voor {{minutes}} minuten beperkt!",
+  "create": "Aanmaken",
+  "createChatTitle": "Chat aanmaken",
+  "createChatHeroSubtitle": "Start een privé, versleutelde chat door een gebruikers-ID in te voeren.",
+  "directMessagesTitle": "Directe berichten",
+  "chatsCategoryTitle": "Chats"
+}

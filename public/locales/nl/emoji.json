@@ -1,0 +1,17 @@
+{
+  "emoji": "Emoji",
+  "sticker": "Sticker",
+  "searchOrTextReaction": "Zoek of tekstreactie",
+  "search": "Zoeken",
+  "react": "Reageren",
+  "noStickerPacks": "Geen stickerpakketten!",
+  "addStickersFromSettings": "Voeg stickers toe via gebruikers-, kamer- of ruimteminstellingen.",
+  "emojiGroupPeople": "Smileys & Personen",
+  "emojiGroupNature": "Dieren & Natuur",
+  "emojiGroupFood": "Eten & Drinken",
+  "emojiGroupActivity": "Activiteiten",
+  "emojiGroupTravel": "Reizen & Plaatsen",
+  "emojiGroupObject": "Objecten",
+  "emojiGroupSymbol": "Symbolen",
+  "emojiGroupFlag": "Vlaggen"
+}

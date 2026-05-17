@@ -1,0 +1,14 @@
+{
+  "title": "Over",
+  "logoAlt": "Cinny-logo",
+  "appName": "Cinny",
+  "appVersion": "v4.11.1",
+  "tagline": "Nog een Matrix-client.",
+  "sourceCode": "Broncode",
+  "support": "Ondersteuning",
+  "optionsHeader": "Opties",
+  "clearCacheReloadTitle": "Cache wissen & herladen",
+  "clearCacheReloadDescription": "Wis alle lokaal opgeslagen gegevens en laad opnieuw vanaf de server.",
+  "clearCacheButton": "Cache wissen",
+  "creditsHeader": "Credits"
+}

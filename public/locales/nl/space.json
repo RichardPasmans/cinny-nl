@@ -1,0 +1,16 @@
+{
+  "markAsRead": "Markeer als gelezen",
+  "invite": "Uitnodigen",
+  "copyLink": "Link kopiëren",
+  "spaceSettings": "Ruimte-instellingen",
+  "eventTimeline": "Gebeurtenistijdlijn",
+  "leaveSpace": "Ruimte verlaten",
+  "lobbyNav": "Lobby",
+  "messageSearchNav": "Berichtzoekopdracht",
+  "roomsCategoryTitle": "Kamers",
+  "spaceUpgradedTitle": "Ruimte bijgewerkt",
+  "spaceUpgradedDescription": "Deze ruimte is vervangen en niet langer actief.",
+  "failedToJoinReplacementSpace": "Kon de vervangende ruimte niet betreden!",
+  "openNewSpace": "Nieuwe ruimte openen",
+  "joinNewSpace": "Nieuwe ruimte betreden"
+}

@@ -1,0 +1,6 @@
+{
+  "heatingUp": "Opwarmen",
+  "clearCacheAndReload": "Cache wissen en herladen",
+  "failedToLoad": "Laden mislukt. {{message}}",
+  "failedToStart": "Starten mislukt. {{message}}"
+}

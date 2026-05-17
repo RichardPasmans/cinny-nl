@@ -1,0 +1,19 @@
+{
+  "bold": "Vetgedrukt",
+  "italic": "Cursief",
+  "underline": "Onderstreept",
+  "strikeThrough": "Doorhalen",
+  "inlineCode": "Inline code",
+  "spoiler": "Spoiler",
+  "blockQuote": "Citaatblok",
+  "blockCode": "Codeblok",
+  "orderedList": "Geordende lijst",
+  "unorderedList": "Ongeordende lijst",
+  "heading1": "Kop 1",
+  "heading2": "Kop 2",
+  "heading3": "Kop 3",
+  "exit": "Sluiten",
+  "exitFormatting": "Opmaak verlaten",
+  "enableMarkdown": "Markdown inschakelen",
+  "disableMarkdown": "Markdown uitschakelen"
+}

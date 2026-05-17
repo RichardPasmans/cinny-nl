@@ -1,0 +1,15 @@
+{
+  "addSpaceTooltip": "Ruimte toevoegen",
+  "createSpaceTitle": "Ruimte aanmaken",
+  "createSpaceDescription": "Bouw een ruimte voor je community.",
+  "joinWithAddressTitle": "Lid worden met adres",
+  "joinWithAddressDescription": "Word onderdeel van een bestaande community.",
+  "homeTooltip": "Home",
+  "directMessagesTooltip": "Directe berichten",
+  "exploreCommunityTooltip": "Community verkennen",
+  "searchTooltip": "Zoeken",
+  "userSettingsTooltip": "Gebruikersinstellingen",
+  "inboxTooltip": "Postvak in",
+  "unverifiedDeviceTooltip": "Niet-geverifieerd apparaat",
+  "unverifiedDevicesTooltip": "Niet-geverifieerde apparaten"
+}

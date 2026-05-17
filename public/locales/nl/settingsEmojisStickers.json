@@ -1,0 +1,21 @@
+{
+  "title": "Emoji's & Stickers",
+  "defaultPackHeader": "Standaardpakket",
+  "view": "Bekijk",
+  "roomPacksHeader": "Kamerpakketten",
+  "save": "Opslaan",
+  "close": "Sluiten",
+  "selectAll": "Alles selecteren",
+  "unselectAll": "Alles deselecteren",
+  "unknown": "Onbekend",
+  "noPacksTitle": "Geen pakketten",
+  "noPacksSubtitle": "Pakketten van kamers verschijnen hier. Je hebt nog geen kamer met pakketten.",
+  "favoritePacksHeader": "Favoriete pakketten",
+  "selectPackTitle": "Pakket selecteren",
+  "selectPackDescription": "Kies emoji- en stickerpakketten uit kamers om in alle kamers te gebruiken.",
+  "select": "Selecteer",
+  "failedToApplyChanges": "Wijzigingen konden niet worden toegepast! Probeer het opnieuw.",
+  "changesSavedApplyWhenReady": "Wijzigingen opgeslagen! Toepassen wanneer je klaar bent.",
+  "reset": "Resetten",
+  "applyChanges": "Wijzigingen toepassen"
+}

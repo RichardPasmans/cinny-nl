@@ -1,0 +1,20 @@
+{
+  "leaveRoomTitle": "Kamer verlaten",
+  "leaveRoomConfirm": "Weet je zeker dat je deze kamer wilt verlaten?",
+  "failedToLeaveRoom": "Kan kamer niet verlaten!",
+  "leaving": "Verlaten...",
+  "leave": "Verlaten",
+  "leaveSpaceTitle": "Ruimte verlaten",
+  "leaveSpaceConfirm": "Weet je zeker dat je deze ruimte wilt verlaten?",
+  "failedToLeaveSpace": "Kan ruimte niet verlaten!",
+  "inviteTitle": "Uitnodigen",
+  "userIdLabel": "Gebruikers-ID",
+  "userIdPlaceholder": "@gebruikersnaam:server",
+  "reasonOptionalLabel": "Reden (Optioneel)",
+  "open": "Open",
+  "joinWithAddressTitle": "Lid worden via adres",
+  "joinWithAddressHelp": "Voer het openbare adres in om lid te worden van de community. Adressen zien er als volgt uit:",
+  "addressLabel": "Adres",
+  "addressPlaceholder": "#community:server",
+  "invalidAddress": "Ongeldig adres"
+}

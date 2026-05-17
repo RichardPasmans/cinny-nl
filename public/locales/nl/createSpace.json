@@ -1,0 +1,16 @@
+{
+  "access": "Toegang",
+  "name": "Naam",
+  "topicOptional": "Onderwerp (Optioneel)",
+  "options": "Opties",
+  "advancedOptions": "Geavanceerde opties",
+  "knockToJoin": "Kloppen om lid te worden",
+  "knockToJoinSpaceDescription": "Iedereen kan een verzoek sturen om lid te worden van deze ruimte.",
+  "allowFederation": "Federatie toestaan",
+  "allowFederationDescription": "Gebruikers van andere servers kunnen lid worden.",
+  "serverRateLimitedMinutes": "De server heeft je verzoek voor {{minutes}} minuten beperkt!",
+  "create": "Aanmaken",
+  "newSpaceTitle": "Nieuwe ruimte",
+  "createSpaceTitle": "Ruimte aanmaken",
+  "createSpaceHeroSubtitle": "Bouw een ruimte voor je community."
+}

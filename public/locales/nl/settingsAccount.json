@@ -1,0 +1,20 @@
+{
+  "profileHeader": "Profiel",
+  "avatarLabel": "Avatar",
+  "upload": "Uploaden",
+  "remove": "Verwijderen",
+  "removeAvatarTitle": "Avatar verwijderen",
+  "removeAvatarConfirm": "Weet je zeker dat je je profielavatar wilt verwijderen?",
+  "displayNameLabel": "Weergavenaam",
+  "save": "Opslaan",
+  "matrixIdHeader": "Matrix ID",
+  "copy": "Kopiëren",
+  "blockedUsersHeader": "Geblokkeerde gebruikers",
+  "selectUserTitle": "Gebruiker selecteren",
+  "selectUserDescription": "Voorkom het ontvangen van berichten of uitnodigingen van een gebruiker door hun userId toe te voegen.",
+  "block": "Blokkeren",
+  "usersHeader": "Gebruikers",
+  "contactInformationHeader": "Contactgegevens",
+  "emailAddressTitle": "E-mailadres",
+  "emailAddressDescription": "E-mailadres dat aan je account is gekoppeld."
+}

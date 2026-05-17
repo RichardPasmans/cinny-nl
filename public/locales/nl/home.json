@@ -1,0 +1,14 @@
+{
+  "homeTitle": "Home",
+  "noRoomsTitle": "Geen kamers",
+  "noRoomsDescription": "Je hebt nog geen kamers.",
+  "createRoomButton": "Kamer aanmaken",
+  "exploreCommunityRoomsButton": "Communitykamers verkennen",
+  "createRoomNavItem": "Kamer aanmaken",
+  "joinWithAddressNavItem": "Lid worden via adres",
+  "messageSearchNavItem": "Berichtzoekopdracht",
+  "messageSearchTitle": "Berichtzoekopdracht",
+  "roomsCategoryTitle": "Kamers",
+  "createRoomTitle": "Kamer aanmaken",
+  "createRoomSubtitle": "Bouw een kamer voor realtimegesprekken."
+}
