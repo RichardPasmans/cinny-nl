@@ -143,6 +143,7 @@ function SelectTheme({ disabled }: { disabled?: boolean }) {
 const languageLabels = {
   en: 'English',
   ru: 'Русский',
+  nl: 'Nederlands',
 } as const;
 
 type LanguageId = keyof typeof languageLabels;

@@ -5,10 +5,11 @@ import { initReactI18next } from 'react-i18next';
 import dayjs from 'dayjs';
 import 'dayjs/locale/en';
 import 'dayjs/locale/ru';
+import 'dayjs/locale/nl';
 import { trimTrailingSlash } from './utils/common';
 import { getSettings, setSettings } from './state/settings';
 
-const supportedLngs = ['en', 'ru'] as const;
+const supportedLngs = ['en', 'ru', 'nl'] as const;
 const DEFAULT_LNG = 'en';
 const DEFAULT_NS = 'roomCommon';
 const normalizeLng = (lng: string | undefined): (typeof supportedLngs)[number] =>
