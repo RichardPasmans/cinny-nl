@@ -62,6 +62,7 @@ type MediaPreviewProps = {
   children: ReactNode;
 };
 function MediaPreview({ fileItem, onSpoiler, children }: MediaPreviewProps) {
+  const { t } = useTranslation('common');
   const { originalFile, metadata } = fileItem;
   const fileUrl = useObjectURL(originalFile);
 
